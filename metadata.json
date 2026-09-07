@@ -1,0 +1,7 @@
+{
+  "name": "Arise System: Monarch Realm",
+  "description": "Ultra-exclusive futuristic Solo Leveling Monarch Realm app for Absolute Shadow Monarch Mohammad Noman Amin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
